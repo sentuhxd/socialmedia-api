@@ -17,7 +17,7 @@ npm i after you clone down repo
 
 ## Usage
 
-Run it with `npm run dev` in the command line after you cloned down the repo and installed all dependencies. Link to vid [here]
+Run it with `npm run dev` in the command line after you cloned down the repo and installed all dependencies. Link to vid [here](https://drive.google.com/file/d/1fmiiuPoqyv7DIEV73tVtpcYv8TpEu9ld/view)
 
 
 
